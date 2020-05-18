@@ -11,6 +11,7 @@ Many things missing but purpose was to get comfortable with Redux
 I will be using ideas from this project in future projects (ex. typings for reducers)
 
 ### Todo
+* update action types, random-gen strings for action type enums
 * answers for questions
 * make everything pretty
 * more specific types for components and reducers
